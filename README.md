@@ -1,4 +1,10 @@
-# Al_productivity_Assistant
+#i>AI Research Assistant</li>
+    <li>AI Chatbot Interface</li>
+  </ul>
+  <h2>How it works:</h2>
+  <p>The AI assistant uses Lovable.ai to generate responses based on user input.</p>
+</body>
+</html> Al_productivity_Assistant
 An AI_productivity_assistant
 <!DOCTYPE html>
 <html>
@@ -19,10 +25,4 @@ An AI_productivity_assistant
     <li>Smart Email Generator</li>
     <li>Meeting Notes Summarizer</li>
     <li>AI Task Planner</li>
-    <li>AI Research Assistant</li>
-    <li>AI Chatbot Interface</li>
-  </ul>
-  <h2>How it works:</h2>
-  <p>The AI assistant uses Lovable.ai to generate responses based on user input.</p>
-</body>
-</html>
+    <l
